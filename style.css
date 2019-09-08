@@ -78,7 +78,7 @@ a.download-btn{
 }
 .series img {
     width: 100%;
-    height: 220px;
+    height: 100%;
     box-shadow: -4px 4px 5px 0 #000;
     cursor: pointer;
     transition: 1s;
